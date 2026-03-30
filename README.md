@@ -21,7 +21,6 @@ O **PhotoSpark** é uma plataforma social intuitiva para o compartilhamento de m
 - [React Router Dom](https://reactrouter.com/) - Gerenciamento de rotas (utilizando `HashRouter` para melhor compatibilidade).
 - [Tailwind CSS](https://tailwindcss.com/) - Framework CSS utilitário para estilização moderna e responsiva.
 - [Vite](https://vitejs.dev/) - Ferramenta de build rápida para projetos web modernos.
-- [Lucide React](https://lucide.dev/) (opcional/ícones) - Conjunto de ícones elegantes.
 
 ## 🛠️ Como Rodar o Projeto
 
